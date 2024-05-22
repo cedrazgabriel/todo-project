@@ -17,6 +17,9 @@ export default {
         'gray-100': '#F2F2F2',
       },
     },
+    fontFamily: {
+      sans: ['Poppins', 'sans-serif']
+    }
   },
   plugins: [],
 }
