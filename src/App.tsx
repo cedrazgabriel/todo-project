@@ -10,7 +10,7 @@ export function App() {
         <h1 className='text-3xl text-black font-sans font-bold animate__animated animate__bounce animate__infinite'>
           Em construção..
         </h1>
-        <h1 className='text-3xl text-black font-sans font-bold animate__animated animate__fadeIn animate__infinite'>
+        <h1 className='text-3xl text-emerald-700 font-sans font-bold'>
           Estamos construindo um site novinho em folha..
         </h1>
       </div>
